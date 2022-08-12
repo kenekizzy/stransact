@@ -1,0 +1,12 @@
+.blogs{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    border: 1.5px solid black;
+    background-color: grey;
+}
+
+.images{
+    width: 200px;
+    height: 200px;
+}
